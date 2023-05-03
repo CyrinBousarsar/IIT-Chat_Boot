@@ -1,0 +1,170 @@
+{
+    "intents": [
+      {
+        "tag": "salutation",
+        "patterns": [
+          "Hi",
+          "Hey",
+          "salut",
+          "bonjour",
+          "Hello",
+          "bonsoir"
+        ],
+        "responses": [
+          "salut :-)",
+          "salut , comment je peux vous aider ?",
+          "salut, je suis la pour répondre à vos questions",
+          "Salut ,je suis l'agent ChatBoot IIT, je suis à votre disposition "
+        ]
+      },
+      {
+        "tag": "goodbye",
+        "patterns": ["Bye", "au revoir", "Goodbye"],
+        "responses": [
+          "A plus tard, merci de votre visite",
+          "Merci , bonne journée",
+          "Au revoir! Revenez bientôt."
+        ]
+      },
+      {
+        "tag": "Remerciment",
+        "patterns": ["Merci", "Thank you", "Merci beaucoup"],
+        "responses": ["Je suis ravi de t 'aider", "Avec plaisir"]
+      },
+      {
+        "tag": "orientation 1",
+        "patterns": [
+          "j'aimerai faire une licence en informatique",
+          "j'aimerai faire une licence en génie industriel",
+          "j'aimerai faire un cycle préparatoire" ,
+          "je voulais faire une licence en informatique",
+          "je voulais faire une licence en industriel",
+          "je souhaite faire une licence en informatique ",
+          "je voulais cycle preparatoire ",
+          "possible de faire une licence en informatique",
+          "possible de faire une licence en industriel",
+          "possible de faire cycle preparatoire",
+          "j'souhaite faire une licence en informatique",
+          "j'souhaite faire une licence en industriel",
+          "j'souhaite faire cycle preparatoire"
+        ],
+        "responses": [
+          "Si vous avez obtenu votre baccalauriat en Mathématiques ou Sciences expérimentales ou Sciences techniques ou Sciences de l'informatique , donc oui vous pourrez faire une licence chez l'IIT "
+          
+        ]
+      },
+      {
+        "tag": "orientation 2",
+        "patterns": [
+          "j'aimerai faire une génie industriel",
+          "j'aimerai faire une génie informatique", 
+          "j'aimerai faire une génie mécanique",
+          "je souhaite faire une génie des procedés",
+          "je souhaite faire une génie industriel",
+          "je souhaite faire une génie informatique", 
+          "je souhaite faire une génie mécanique",
+          "j'aimerai faire une génie des procedés",
+          "possible de faire une génie industriel?",
+          "possible de faire une génie informatique?", 
+          "possible de faire une génie mécanique?",
+          "possible de faire une génie des procedés ?"
+  
+        ],
+        "responses": [
+         "est ce que vous avez fait un cycle licence ou cycle preparatoire ?"
+        ]
+      },
+      {
+        "tag": "orientation 3",
+        "patterns": [
+          "Je suis étudiant en prépa, quelles sont les options d'orientation qui s'offrent à moi ?",
+          "je suis préparatoire, que est ce que je peux faire ?"
+        ],
+        "responses": [
+         "En tant qu'étudiant en prépa, vous avez la possibilité de choisir parmi plusieurs filières d'ingénieur, telles que Génie Civil, Génie des procédés,Génie Mécanique, Génie Industriel, Génie des télécommunications, Génie Informatique, etc. Vous pouvez également opter pour des licences comme Licence en Génie Industriel : Management des Systèmes Industriels ou Licence en  Informatique : Génie Logiciel et Système d'Information, ou encore des masters tels que Industrie V4.0 en fonction de vos intérêts et de votre projet professionnel"
+        ]
+      },
+      {
+        "tag": "Orientation 4",
+  
+        "patterns": [
+          "Je suis étudiant en prépa, quelles sont les options d'orientation qui s'offrent à moi?",
+          "j'ai terminé mes études préparatoires, est ce que je peux terminer le  cycle d'ingénieur à l'IIT?",
+          "Quelles sont les cycles d'ingénieures à l'IIT? ",
+          "Comment je peut choisir le cycle d'ingénieur aduéquat à moi."
+          
+        ],
+        "responses": [
+         
+          "En tant qu'étudiant réusissant son cycle préparatoire, vous avez la possibilité de  choisir parmi plusieurs filières d'ingénieur,telles que Génie Civil, Génie des procédés,Génie Mécanique, Génie Industriel, Génie des télécommunications, Génie Informatique, etc. Vous pouvez également opter pour des licences comme Licence en Génie Industriel : Management des Systèmes Industriels ou Licence en  Informatique : Génie Logiciel et Système d'Information,  encore des masters tels que Industrie V4.0 en fonction de vos intérêts et de votre projet professionnel"
+        ]
+      },
+      {
+        "tag": "Orientation selon profil scientifiques",
+        "patterns": [
+          "Quelles sont les filières d'ingénieur les mieux adaptées à un profil axé sur les sciences physiques et mathématiques ?",
+          "Quelles sont les filières d'ingénieur qui conviennent le mieux à une personne ayant des compétences en mathématiques et en sciences physiques ?",
+          "Pour un étudiant intéressé par les mathématiques et les sciences physiques, quelles sont les filières d'ingénieur les plus adaptées ?",
+          "Si j'ai des compétences en sciences physiques et en mathématiques, quelles filières d'ingénieur devriez-vous envisager ?",
+          "Pour un profil scientifique ayant des compétences en mathématiques et en sciences physiques, quelles filières d'ingénieur seraient les plus adaptées ?"
+        ],
+  
+        "responses": [
+     
+          "Les filières d'ingénieur telles que Génie Civil, Génie Mécanique et  Génie des procédés peuvent être bien adaptées à un profil axé sur les sciences physiques et mathématiques. Elles impliquent souvent la modélisation, la simulation, la conception et la résolution de problèmes techniques et complexes"
+        ]
+      },
+      {
+        "tag": "Orientation selon profil informatique",
+        "patterns": [
+          "Quelle filière d'ingénieur conviendrait le mieux à un profil intéressé par les nouvelles technologies et l'informatique ?",
+          "Pour un étudiant intéressé par les nouvelles technologies et l'informatique, quelle filière d'ingénieur serait la plus appropriée ?",
+          "Quelle filière d'ingénieur conviendrait le mieux à un profil axé sur les nouvelles technologies et l'informatique ?",
+          "Si je suis intéressé par les nouvelles technologies et l'informatique, quelle filière d'ingénieur devriez-vous envisager ?",
+          "Pour un profil intéressé par l'informatique et les nouvelles technologies, quelle filière d'ingénieur serait la plus adaptée ?",
+          "j'aime l'informatique et j'ai des bonnes notes en informatique et je veut faire un cycle d'ingénieure en informatique"
+        ],
+        "responses": [
+          "La filière Génie Informatique pourrait être parfaitement adaptée à un profil intéressé par les nouvelles technologies et l'informatique. Elle offre des cours sur la programmation, les bases de données, l'intelligence artificielle, la cybersécurité, la conception de logiciels, etc"
+        ]
+      },
+      {
+        "tag": "Orientation selon profil management ",
+        "patterns": [
+          "Quelles sont les options d'orientation pour un étudiant intéressé par la gestion d'entreprise et l'optimisation des processus ?",
+          "Quelles sont les filières à considérer pour un étudiant qui souhaite se spécialiser dans la gestion d'entreprise et l'amélioration des processus ?",
+          "Quelles sont les choix d'orientation possibles pour un étudiant qui s'intéresse à la gestion d'entreprise et à l'optimisation des processus ?",
+          "Quelles filières pourraient correspondre à un étudiant ayant un intérêt pour la gestion d'entreprise et l'optimisation des processus ?",
+          "je suis quelqu'un intéressé par la gestion d'entreprise et l'amélioration des processus, quelles sont les options qui s'offrent à lui en matière d'orientation ?",
+          "Quelles filières conviendraient à un étudiant qui souhaite se spécialiser dans la gestion d'entreprise et l'optimisation des processus ?"
+        ],
+        "responses": [
+          "Les filières d'ingénieur comme Génie Industriel et Génie des procédés peuvent être des options d'orientation intéressantes pour un étudiant intéressé par la gestion d'entreprise et l'optimisation des processus. Elles couvrent généralement des sujets tels que la gestion de la production, l'organisation industrielle, la logistique, la gestion de la qualité, etc"
+        ]
+      },
+  
+      {
+        "tag": "Orientation selon profil management industriel  ",
+        "patterns": [
+          "Quelles sont les licences proposées dans le domaine du management industriel ?"
+        ],
+  
+        "responses": [
+          "Les filières d'ingénieur comme Génie Industriel et Génie des procédés peuvent être des options d'orientation intéressantes pour un étudiant intéressé par la gestion d'entreprise et l'optimisation des processus. Elles couvrent généralement des sujets tels que la gestion de la production, l'organisation industrielle, la logistique, la gestion de la qualité, etc"
+        ]
+      },
+  
+      {
+        "tag": "Orientation génie télécomunication  ",
+        "patterns": [
+          "Quels sont les débouchés professionnels de la filière Génie des télécommunications ? "
+        ],
+  
+        "responses": [
+          "Les débouchés professionnels de la filière Génie des télécommunications peuvent inclure des carrières dans les télécommunications, les réseaux de communication, la conception et la gestion de systèmes de communication, les opérateurs de télécommunications, les entreprises de technologie de l'information, etc"
+      ]
+  }
+  ]
+  }
+  
+  
