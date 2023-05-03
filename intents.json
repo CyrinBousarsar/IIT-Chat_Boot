@@ -27,7 +27,7 @@
         ]
       },
       {
-        "tag": "Remerciment",
+        "tag": "Remerciement",
         "patterns": ["Merci", "Thank you", "Merci beaucoup"],
         "responses": ["Je suis ravi de t 'aider", "Avec plaisir"]
       },
