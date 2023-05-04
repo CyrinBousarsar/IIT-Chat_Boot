@@ -100,6 +100,21 @@
           "En tant qu'étudiant réusissant son cycle préparatoire, vous avez la possibilité de  choisir parmi plusieurs filières d'ingénieur,telles que Génie Civil, Génie des procédés,Génie Mécanique, Génie Industriel, Génie des télécommunications, Génie Informatique, etc. Vous pouvez également opter pour des licences comme Licence en Génie Industriel : Management des Systèmes Industriels ou Licence en  Informatique : Génie Logiciel et Système d'Information,  encore des masters tels que Industrie V4.0 en fonction de vos intérêts et de votre projet professionnel"
         ]
       },
+        {
+        "tag": "Orientation 5",
+  
+        "patterns": [
+          "Je suis étudiant en licence, quelles sont les options d'orientation qui s'offrent à moi?",
+          "j'ai terminé mes études de licences, est ce que je peux terminer le  cycle d'ingénieur à l'IIT?",
+          "Quelles sont les cycles d'ingénieures à l'IIT? ",
+          "Comment je peut choisir le cycle d'ingénieur aduéquat à moi."
+          
+        ],
+        "responses": [
+         
+          "En tant qu'étudiant réusissant son licence, vous avez la possibilité de  choisir parmi plusieurs filières d'ingénieur,telles que Génie Civil, Génie des procédés,Génie Mécanique, Génie Industriel, Génie des télécommunications, Génie Informatique, etc. "
+        ]
+      },
       {
         "tag": "Orientation selon profil scientifiques",
         "patterns": [
@@ -163,8 +178,224 @@
   
         "responses": [
           "Les débouchés professionnels de la filière Génie des télécommunications peuvent inclure des carrières dans les télécommunications, les réseaux de communication, la conception et la gestion de systèmes de communication, les opérateurs de télécommunications, les entreprises de technologie de l'information, etc"
-      ]
-  }
+      ]},
+      {
+        "tag":"datedebutcourssem1",
+        "patterns" : [
+          " Quelle est la date de début des cours pour la premiere semestre ?",
+          "Quand est-ce que le premier semestre commence-t-il ?",
+          "Quelle est la date de début des cours pour le premier semestre ?",
+          "À partir de quand commence le premier semestre ?",
+          "Quand est-ce que les cours du premier semestre débutent ?"
+
+        ],
+        "responses": [
+          "La date de début des cours pour la prochaine session est fixée au 21 September pur les anciens et le 1 October pour les nouveaux.",
+          "Les anciens étudiants doivent se présenter en classe à partir du 21 septembre, tandis que les nouveaux étudiants débuteront leurs cours le 1er octobre.",
+          "Pour la prochaine session, les cours commenceront le 21 septembre pour les étudiants déjà inscrits et le 1er octobre pour les nouveaux inscrits.",
+          "Les étudiants existants devraient être prêts à commencer leurs cours le 21 septembre, tandis que les nouveaux étudiants devront attendre jusqu'au 1er octobre pour leur premier jour de cours.",
+          "Le premier semestre commencera le 21 septembre pour les étudiants inscrits l'année dernière et le 1er octobre pour les nouveaux étudiants."
+        ]
+      },
+      {
+        "tag":"datedebutcourssem2",
+        "patterns" : [
+          " Quelle est la date de début des cours pour la deuxiéme semestre ?",
+          "Quand est-ce que le deuxiéme semestre commence-t-il ?",
+          "Quelle est la date de début des cours pour le deuxiéme semestre ?",
+          "À partir de quand commence le deuxiéme semestre ?",
+          "Quand est-ce que les cours du deuxiéme semestre débutent ?"
+
+        ],
+        "responses": [
+          "Les cours pour le prochain semestre seront communiqués le 25 janvier.",
+          "Une annonce concernant les cours du prochain semestre sera faite le 25 janvier.",
+          "Le 25 janvier est la date à laquelle les informations sur les cours pour le prochain semestre seront rendues disponibles.",
+          "Il y aura une annonce officielle des cours du prochain semestre le 25 janvier."
+        ]
+      },
+      {
+        "tag":"devcontrolesem1",
+        "patterns" : [
+          "Quand est-ce que les devoirs surveillés du premier semestre commencent-ils et se terminent-ils ?",
+          "Quelle est la période pendant laquelle les devoirs surveillés du premier semestre auront lieu ?",
+          "À partir de quand et jusqu'à quand les devoirs surveillés du premier semestre seront-ils organisés ?",
+          "Quelle est la plage horaire pour les devoirs surveillés du premier semestre ?"
+
+        ],
+        "responses": [
+          "Les devoirs surveillés du premier semestre auront lieu du 9 novembre au 15 novembre.",
+          "Les étudiants auront une semaine, du 9 novembre au 15 novembre, pour passer les devoirs surveillés du premier semestre.",
+          "Du 9 novembre au 15 novembre, les étudiants passeront les devoirs surveillés du premier semestre.",
+          "Les devoirs surveillés du premier semestre débuteront le 9 novembre et se termineront le 15 novembre."
+        ]
+      },
+      {
+        "tag":"devcontrolsem2",
+        "patterns" : [
+          "Quand est-ce que les devoirs surveillés du deuxiéme semestre commencent-ils et se terminent-ils ?",
+          "Quelle est la période pendant laquelle les devoirs surveillés du deuxiéme semestre auront lieu ?",
+          "À partir de quand et jusqu'à quand les devoirs surveillés du deuxiéme semestre seront-ils organisés ?",
+          "Quelle est la plage horaire pour les devoirs surveillés du deuxiéme semestre ?"
+
+        ],
+        "responses": [
+          "Les devoirs surveillés du deuxiéme semestre auront lieu du 8 Mars au 13 Mars.",
+          "Les étudiants auront une semaine, du 8 Mars au 13 Mars, pour passer les devoirs surveillés du deuxiéme semestre.",
+          "Du 8 Mars au 13 Mars, les étudiants passeront les devoirs surveillés du deuxiéme semestre.",
+          "Les devoirs surveillés du deuxiéme semestre débuteront le 8 Mars et se termineront le 13 Mars."
+        ]
+      },
+      {
+        "tag":"examensem1",
+        "patterns" : [
+          "À quelles dates sont prévus les examens finaux pour ce premier semestre ?",
+          "Quand est-ce que les examens de fin de premier semestre auront lieu ?",
+          "Est-ce que vous savez quand auront lieu les examens de fin de premier semestre ?",
+          "Pouvez-vous me dire à quelle période sont programmés les examens de fin de premier semestre  ?",
+          "Quand sont les examens finaux pour ce premier semestre ?"
+
+        ],
+        "responses": [
+          "Les examens finaux pour la première semestre sont prévus du 4 janvier au 16 janvier.",
+          "Vous pouvez vous attendre à passer vos examens finaux du 4 au 16 janvier pour ce premier semestre.",
+          "Si vous vous demandez quand auront lieu les examens finaux pour le premier semestre, sachez qu'ils sont programmés du 4 au 16 janvier.",
+          "Du 4 au 16 janvier, les examens finaux pour la première semestre auront lieu.",
+          "Pour être prêt(e) pour les examens finaux de ce premier semestre, notez que les dates se situent entre le 4 et le 16 janvier."
+        ]
+      },
+      {
+        "tag":"examensem2",
+        "patterns" : [
+          "À quelles dates sont prévus les examens finaux pour ce deuxiéme semestre ?",
+          "Quand est-ce que les examens de fin de deuxiéme semestre auront lieu ?",
+          "Est-ce que vous savez quand auront lieu les examens de fin de deuxiéme semestre ?",
+          "Pouvez-vous me dire à quelle période sont programmés les examens de fin de deuxiéme semestre  ?",
+          "Quand sont les examens finaux pour ce deuxiéme semestre ?"
+
+        ],
+        "responses": [
+          " Les examens finaux pour la deuxiéme semestre sont prévus du 24 mai au 5 juin.",
+          "Vous pouvez vous attendre à passer vos examens finaux du 24 mai au 5 juin pour ce deuxiéme semestre.",
+          "Si vous vous demandez quand auront lieu les examens finaux pour le deuxiéme semestre, sachez qu'ils sont programmés du 24 mai au 5 juin.",
+          "Du 24 mai au 5 juin, les examens finaux pour la deuxiéme semestre auront lieu.",
+          "Pour être prêt(e) pour les examens finaux de ce deuxiéme semestre, notez que les dates se situent entre le 24mai et le 5 juin."
+        ]
+      },
+      {
+        "tag":"examenrattrappage",
+        "patterns" : [
+          "Quand est-ce que les examens de rattrapage débutent ?",
+          "À partir de quelle date sont prévus les examens de rattrapage ?",
+          "Est-ce que vous savez quand commencent les examens de rattrapage ?",
+          "Quelle est la date de début des examens de rattrapage ?",
+          "Pouvez-vous me dire à quelle période commencent les examens de rattrapage ?"
+
+        ],
+        "responses": [
+          "Les examens de rattrapage auront lieu du 21 juin au 30 juin cette année.",
+          "Les étudiants qui doivent passer les examens de rattrapage peuvent s'attendre à ce qu'ils commencent le 21 juin et se terminent le 30 juin.",
+          "Si vous vous demandez quand se déroulent les examens de rattrapage, sachez qu'ils ont lieu entre le 21 et le 30 juin cette année.",
+          "Du 21 au 30 juin, les examens de rattrapage pour cette année auront lieu.",
+         "Pour vous préparer aux examens de rattrapage de cette année, notez que les dates se situent entre le 21 et le 30 juin."
+        ]
+      },
+      {
+        "tag":"resultatexamenssesprincipale",
+        "patterns" : [
+          " À partir de quand pourrons-nous consulter les résultats des examens finaux de session principal ?",
+          "Quand est-ce que les résultats des examens finaux de session principal seront disponibles ?",
+          "Est-ce que vous savez quand les résultats des examens finaux de session principal seront publiés ?",
+          "Quelle est la date de publication des résultats des examens finaux de session principal ?",
+          "Pouvez-vous me dire quand est-ce que nous pourrons avoir accès aux résultats des examens finaux de session principal ?"
+
+        ],
+        "responses": [
+          "Les résultats des examens finaux de la session principale seront publiés le 10 juin.",
+          "Les étudiants pourront consulter leurs résultats d'examens finaux de la session principale à partir du 10 juin.",
+          "Si vous attendez les résultats de vos examens finaux de la session principale, sachez qu'ils seront disponibles à partir du 10 juin.",
+          "À partir du 10 juin, vous pourrez accéder aux résultats des examens finaux de la session principale.",
+          "La date de publication des résultats des examens finaux de la session principale est fixée au 10 juin."
+        ]
+      },
+      {
+        "tag":"resultatexamenssesrattrappage",
+        "patterns" : [
+          " À partir de quand pourrons-nous consulter les résultats des examens finaux de session rattrappage ?",
+          "Quand est-ce que les résultats des examens finaux de session rattrappage seront disponibles ?",
+          "Est-ce que vous savez quand les résultats des examens finaux de session rattrappage seront publiés ?",
+          "Quelle est la date de publication des résultats des examens finaux de session rattrappage ?",
+          "Pouvez-vous me dire quand est-ce que nous pourrons avoir accès aux résultats des examens finaux de session rattrappage ?"
+
+        ],
+        "responses": [
+          "Les résultats des examens finaux de la session rattrappage seront publiés le 5 juillet.",
+          "Les étudiants pourront consulter leurs résultats d'examens finaux de la session rattrappage à partir du 5 juillet.",
+          "Si vous attendez les résultats de vos examens finaux de la session rattrappage, sachez qu'ils seront disponibles à partir du 5 juillet.",
+          "À partir du 5 juillet, vous pourrez accéder aux résultats des examens finaux de la session rattrappage.",
+          "La date de publication des résultats des examens finaux de la session rattrappage est fixée au 5 juillet."
+        ]
+      },
+      {
+        "tag":"vacancesem1",
+        "patterns" : [
+          "Est-ce qu'il y a des périodes de vacances pendant le premier semestre ?",
+          "Y aura-t-il des temps de pause pendant le premier semestre ?",
+          "Est-ce que les étudiants auront des vacances pendant le premier semestre ?",
+          "Y a-t-il des moments de repos prévus au cours du premier semestre ?"
+          
+
+
+        ],
+        "responses": [
+          "Oui, il y a une pause d'hiver qui commence le 21 décembre et se termine le 3 janvier.",
+          "Les étudiants pourront profiter d'une pause d'hiver du 21 décembre au 3 janvier.",
+          "Si vous vous demandez s'il y a des vacances pendant le premier semestre, notez qu'il y aura une pause d'hiver de deux semaines, du 21 décembre au 3 janvier.",
+          "Les vacances de la pause d'hiver débutent le 21 décembre et prennent fin le 3 janvier.",
+          "Pendant le premier semestre, les étudiants auront une pause d'hiver de deux semaines, du 21 décembre au 3 janvier."
+ 
+        ]
+      },
+      {
+        "tag":"vacancesem2",
+        "patterns" : [
+          "Est-ce qu'il y a des périodes de vacances pendant le deuxiéme semestre ?",
+          "Y aura-t-il des temps de pause pendant le deuxiéme semestre ?",
+          "Est-ce que les étudiants auront des vacances pendant le deuxiéme semestre ?",
+          "Y a-t-il des moments de repos prévus au cours du deuxiéme semestre ?"
+
+        ],
+        "responses": [
+          "Oui, il y a une pause de printemp qui commence le 15 Mars et se termine 28 Mars.",
+          "Les étudiants pourront profiter d'une pause de printemps du 15 Mars au 28 Mars.",
+          "Si vous vous demandez s'il y a des vacances pendant le deuxiéme semestre, notez qu'il y aura une pause de printemp de deux semaines, du 15 Mars au 3 janvier.",
+          "Les vacances de la pause de printemp débutent le 15 Mars et prennent fin le 28 Mars.",
+          "Pendant le deuxiéme semestre, les étudiants auront une pause de printemp de deux semaines, du 15 Mars au 28 Mars."
+        ]
+      },
+      {
+        "tag":"jours feriés",
+        "patterns" : [
+          "Quels sont les jours fériés ?",
+          "Pouvez-vous me dire quels sont les jours fériés ?",
+          "Y a-t-il des jours fériés à venir ?",
+          "Pourriez-vous me donner la liste des jours fériés ?",
+          "Quand sont les jours fériés cette année ?",
+          "Quels jours sont considérés comme des jours fériés  ?",
+          "Est-ce que vous pouvez m'indiquer les jours fériés  ?",
+          "Pourriez-vous me donner des informations sur les jours fériés  ?"
+          
+        ],
+        "responses": [
+          "Les jours fériées seront : le 15 October c'est la Fête de l'Evacuation ,  1er janvier est Jour de l'an , 17 décembre est Fête de la Révolution , 20 mars est Fête de l'Indépendance,  9 avril est Journée des Martyrs, 1er mai est Fête du travail, 28 juin et jeudi 29 juin est Aïd el Kébir 2023, 25 juillet est Fête de la République et 27 septembre est Mouled 2023 ."
+          
+        ]
+      }
+      
+    
+    
+  
+
   ]
   }
   
