@@ -518,6 +518,114 @@
         ],
         "responses": [
           "En tant qu'étudiant étranger, vous pouvez choisir parmi plusieurs options de filières ingénieur dans notre Institut, notamment le Génie Civil, le Génie des Procédés, le Génie Mécanique, le Génie Industriel, le Génie des Télécommunications et le Génie Informatique. Nous pouvons vous fournir des informations détaillées sur ces options ainsi que sur les démarches administratives nécessaires pour les étudiants internationaux."         ]
+      },
+      {
+        "tag": "tarifs génie informatique",
+        "patterns": [
+          "tarif génie informatique",
+          "prix génie informatique",
+          "coût génie informatique"
+        ],
+  
+        "responses": [
+        "les tarifs sont pour 1ére année 5000,pour 2 éme année 6000, pour 3 éme annéé 7000  "
+        ]
+      },
+      {
+        "tag": "tarifs génie industriel",
+        "patterns": [
+          "tarif génie  industriel",
+          "prix génie  industriel",
+          "coût génie  industriel"
+        ],
+  
+        "responses": [
+        "les tarifs sont pour 1ére année 5000,pour 2 éme année 6000, pour 3 éme année 7000  "
+        ]
+      },
+      {
+        "tag": "tarifs génie mécanique",
+        "patterns": [
+          "tarif génie  mécanique",
+          "prix génie  mécanique",
+          "coût génie  mécanique"
+        ],
+  
+        "responses": [
+        "les tarifs sont : pour 1ére année 5000 ,pour 2 éme année 6000 ,pour 3 éme année 7000  "
+        ]
+      },
+      {
+        "tag": "tarifs génie des procédures",
+        "patterns": [
+          "tarif génie  des procédures",
+          "prix génie  des procédures",
+          "coût génie  des procédures"
+        ],
+  
+        "responses": [
+        "les tarifs sont : pour 1ére année 5000 ,pour 2 éme année 6000 ,pour 3 éme année 7000  "
+        ]
+      },
+      {
+        "tag": "tarifs génie civile",
+        "patterns": [
+          "tarif génie  civile",
+          "prix génie  civile",
+          "coût génie  civile"
+        ],
+  
+        "responses": [
+        "les tarifs sont : pour 1ére année 5000 ,pour 2 éme année 6000 ,pour 3 éme année 7000  "
+        ]
+      },
+      {
+        "tag": "tarifs licence en génie industriel",
+        "patterns": [
+          "tarif génie licence en génie industriel",
+          "prix génie licence en génie industriel",
+          "coût génie licence en génie industriel"
+        ],
+  
+        "responses": [
+        "les tarifs sont : pour 1ére année 5000 ,pour 2 éme année 6000 ,pour 3 éme année 7000  "
+        ]
+      },
+      {
+        "tag": "tarifs licence informatique",
+        "patterns": [
+          "tarif licence informatique",
+          "prix licence informatique",
+          "coût licence informatique"
+        ],
+  
+        "responses": [
+        "les tarifs sont : pour 1ére année 5000 ,pour 2 éme année 6000 ,pour 3 éme année 7000  "
+        ]
+      }, 
+      {
+        "tag": "tarifs licence informatique",
+        "patterns": [
+          "tarif licence informatique",
+          "prix licence informatique",
+          "coût licence informatique"
+        ],
+  
+        "responses": [
+        "les tarifs sont : pour 1ére année 5000 ,pour 2 éme année 6000 ,pour 3 éme année 7000  "
+        ]
+      },
+      {
+        "tag": "tarifs cycle preparatoire",
+        "patterns": [
+          "tarif cycle preparatoire",
+          "prix cycle preparatoire",
+          "coût cycle preparatoire"
+        ],
+  
+        "responses": [
+        "les tarifs sont : pour 1ére année 5000 ,pour 2 éme année 6000 "
+        ]
       }
 
 
