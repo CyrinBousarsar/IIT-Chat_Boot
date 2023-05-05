@@ -568,11 +568,11 @@
         ]
       },
       {
-        "tag": "tarifs génie civile",
+        "tag": "tarifs génie civil",
         "patterns": [
-          "tarif génie  civile",
-          "prix génie  civile",
-          "coût génie  civile"
+          "tarif génie civil",
+          "prix génie civil",
+          "coût génie civil"
         ],
   
         "responses": [
@@ -603,18 +603,7 @@
         "les tarifs sont : pour 1ére année 5000 ,pour 2 éme année 6000 ,pour 3 éme année 7000  "
         ]
       }, 
-      {
-        "tag": "tarifs licence informatique",
-        "patterns": [
-          "tarif licence informatique",
-          "prix licence informatique",
-          "coût licence informatique"
-        ],
-  
-        "responses": [
-        "les tarifs sont : pour 1ére année 5000 ,pour 2 éme année 6000 ,pour 3 éme année 7000  "
-        ]
-      },
+      
       {
         "tag": "tarifs cycle preparatoire",
         "patterns": [
@@ -626,7 +615,144 @@
         "responses": [
         "les tarifs sont : pour 1ére année 5000 ,pour 2 éme année 6000 "
         ]
+      },
+      {
+        "tag": "période",
+        "patterns": [
+          "période d'inscription",
+          "délai inscription"
+        ],
+  
+        "responses": [
+        "la période d'inscription commence du mois de juillet au mois de septembre après avoir faire la préinscription"
+        ]
+      },
+      {
+        "tag": "Date limite ins",
+        "patterns": [
+          "Quelle est la date limite pour faire l'inscription ?"
+         
+        ],
+  
+        "responses": [
+        "la date limite avant une semaine de début de cours généralement le 14 septembre"
+        ]
+      },
+      {
+        "tag": "procédure inscription",
+        "patterns": [
+          "Comment puis-je faire mon inscription ? "
+         
+        ],
+  
+        "responses": [
+        "vous devez premièrement faire une préinscription et passer votre entretien avec le chef de département chez nous à iit"
+        ]
+      },
+
+      {
+        "tag": "procédure pré-inscription",
+        "patterns": [
+          "Quelles sont les procédures de préinscription ?"
+          
+         
+        ],
+  
+        "responses": [
+        "il suffit de visiter notre site web et cliquer sur pré- inscription en haut , vous remplissez le formulaire avec vos informations personnelles le dernier diplôme obtenu et le diplôme souhaité vous allez recevoir un appel téléphonique de l’administration pour fixer un rendez-vous pour un entretien"
+        ]
+      },
+      {
+        "tag": "date limite pré",
+        "patterns": [
+          "Quelle est la date limite pour faire une préinscription ?"
+          
+         
+        ],
+  
+        "responses": [
+        "la date limite pour faire une préinscription est le 17 juillet"
+        ]
+      },
+
+      {
+        "tag": "documents insc",
+        "patterns": [
+          "Quels sont les documents nécessaires pour mon inscription ?"
+        
+        ],
+  
+        "responses": [
+        " les documents nécessaire : apporter vos derniers diplômes ,votre photo d'identité ,remplir le règlement intérieur, payer les frais d'inscription"
+        
+        ]
+      },
+      {
+        "tag": "frais insc",
+        "patterns": [
+          "Quels sont les frais d'inscription pour la 1er année génie informatique ?"
+         
+        ],
+  
+        "responses": [
+        "les frais d'inscription sont fixés à 500d pour toutes les filières "
+        
+        ]
+      },
+
+      {
+        "tag": "info cours",
+        "patterns": [
+          "Est-ce que les séances seront divisées en cours /td et tp ?"
+         
+        ],
+  
+        "responses": [
+        "Non les séances seront fixés et le professeur va indiquer à chaque séance ce que vous allez étudier puisque ça diffère selon la matière"
+        
+        ]
+      },
+      {
+        "tag": "Durée cours",
+        "patterns": [
+          "Quel est la durée des séances de cours ?"
+         
+        ],
+  
+        "responses": [
+        "la durée des cours est fixé selon le charge horaire de la matière généralement à partir de 2 heures"
+        
+        ]
+      },
+
+      {
+        "tag": "plan de cours 1",
+        "patterns": [
+          "Est-ce que vous pouvez me donner le plan de cours pour la 1er année génie informatique ?"
+         
+        ],
+  
+        "responses": [
+        "https://iit.tn/wp-content/uploads/2021/03/Fr-Module-description-G.pdf"
+        
+        ]
+      },
+      {
+        "tag": "durée ingénieurie",
+        "patterns": [
+          "Quel est la durée du cycle ingénieur"
+         
+        ],
+  
+        "responses": [
+        "le cycle d'ingénieuur est 3 ans"
+        
+        ]
       }
+
+
+
+
 
 
   ]
