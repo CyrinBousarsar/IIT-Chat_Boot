@@ -140,7 +140,7 @@
           "Quelles filières conviendraient à un étudiant qui souhaite se spécialiser dans la gestion d'entreprise et l'optimisation des processus ?"
         ],
         "responses": [
-          "Les filières d'ingénieur comme Génie Industriel et Génie des procédés peuvent être des options d'orientation intéressantes pour un étudiant intéressé par la gestion d'entreprise et l'optimisation des processus. Elles couvrent généralement des sujets tels que la gestion de la production, l'organisation industrielle, la logistique, la gestion de la qualité, etc"
+          "Les filières d'ingénieurie comme Génie Industriel et Génie des procédés peuvent être des options d'orientation intéressantes pour un étudiant intéressé par la gestion d'entreprise et l'optimisation des processus. Elles couvrent généralement des sujets tels que la gestion de la production, l'organisation industrielle, la logistique, la gestion de la qualité, etc"
         ]
       },
   
@@ -151,7 +151,7 @@
         ],
   
         "responses": [
-          "Les filières d'ingénieur comme Génie Industriel et Génie des procédés peuvent être des options d'orientation intéressantes pour un étudiant intéressé par la gestion d'entreprise et l'optimisation des processus. Elles couvrent généralement des sujets tels que la gestion de la production, l'organisation industrielle, la logistique, la gestion de la qualité, etc"
+          "Les filières d'ingénieuries comme Génie Industriel et Génie des procédés peuvent être des options d'orientation intéressantes pour un étudiant intéressé par la gestion d'entreprise et l'optimisation des processus. Elles couvrent généralement des sujets tels que la gestion de la production, l'organisation industrielle, la logistique, la gestion de la qualité, etc"
         ]
       },
   
@@ -164,7 +164,121 @@
         "responses": [
           "Les débouchés professionnels de la filière Génie des télécommunications peuvent inclure des carrières dans les télécommunications, les réseaux de communication, la conception et la gestion de systèmes de communication, les opérateurs de télécommunications, les entreprises de technologie de l'information, etc"
       ]
+  },
+      {"tag": "programme d'étude ",
+      "patterns": [
+        "Quel est le programme d'études à l'iit ? ",
+        "Quels sont les cours proposés dans le programme d'études à l'IIT ?",
+        "Quel est le cursus proposé à l'IIT ?",
+        "Pourriez-vous m'en dire plus sur les programmes de formation disponibles à l'IIT ?",
+        "Dis moi les programmes de formation disponibles à l'IIT ?",
+        "Comment est structuré le programme d'études de l'IIT ?",
+        "Quel est le contenu des cours offerts à l'IIT ?",
+        "Quelles sont les matières enseignées dans le cadre des programmes d'études de l'IIT ? "
+      ],
+
+      "responses": [
+        "L'IIT (Institut International de Technologies)  propose des programmes d'études en sciences de l'ingénieur, technologie,Licenses.. Les programmes d'études à l'IIT sont structurés pour offrir une formation pratique et une expérience de recherche approfondie aux étudiants. Les cours proposés dans le programme d'études à l'IIT varient en fonction du programme et de la spécialisation choisie par les étudiants. Les matières enseignées dans le cadre des programmes d'études de l'IIT peuvent inclure des sujets tels que les mathématiques, la physique, la chimie, l'informatique, les sciences de l'ingénieur, les télécommunications,etc..Les programmes de formation disponibles à l'IIT sont variés et couvrent un large éventail de domaines, tels que l'informatique, l'intelligence artificielle, la robotique, la mécanique, l'économie, le  management, etc. Les étudiants peuvent choisir leur spécialisation en fonction de leurs intérêts et de leurs objectifs de carrière. Le contenu des cours offerts à l'IIT est conçu pour offrir une formation théorique et pratique aux étudiants. Les cours sont généralement axés sur la résolution de problèmes, l'expérimentation, la recherche et le développement de compétences pratiques en laboratoire et sur le terrain. Les programmes d'études à l'IIT sont réputés pour leur rigueur académique et leur exigence élevée.En résumé, l'IIT propose un large éventail de programmes de formation en sciences de l'ingénieur, technologie... Les programmes sont structurés pour offrir une formation pratique et une expérience de recherche approfondie aux étudiants. Les matières enseignées varient en fonction de la spécialisation choisie, et les cours sont axés sur la résolution de problèmes, l'expérimentation, la recherche et le développement de compétences pratiques."
+    ]
+
+  },
+      {"tag": "plan d'étude ",
+      "patterns": [
+        "c'est quoi le plan d'études proposé par l'IIT ?",
+        "c'est quoi le plan d'étude de l'IIT ?",
+        "Comment est structuré le programme d'études de l'IIT ?"
+    
+  ],
+
+  "responses": [
+    "Le plan d'étude de l'Institut International de Technologies varie en fonction de la spécialité choisie par l'étudiant. En effet, chaque spécialité a ses propres exigences en termes de cours, de crédits et de projets de recherche. Par exemple, le plan d'étude pour les étudiants en génie civil comprend des cours sur les structures, la mécanique des sols, la géotechnique, les matériaux de construction, les méthodes de construction et la gestion de projet. En revanche, le plan d'étude pour les étudiants en informatique comprend des cours sur la programmation, les systèmes d'exploitation, les réseaux informatiques, les bases de données, la sécurité informatique ,l'intelligence artificielle,cloud computing, etc... De plus, l'Institut International de Technologies offre également des programmes de double diplôme, ce qui signifie que les étudiants peuvent suivre une partie de leur cursus dans une université étrangère partenaire et obtenir deux diplômes simultanément. Dans ce cas, le plan d'étude sera également différent selon l'université partenaire et la spécialité choisie. En outre, l'Institut International de Technologies offre également des programmes de formation continue pour les professionnels, avec des plans d'études spécifiques adaptés à leurs besoins et à leur niveau d'expertise. En somme, l'Institut International de Technologies propose un large éventail de spécialités et de programmes de formation, chacun ayant son propre plan d'étude adapté aux exigences de la discipline et aux objectifs de l'étudiant."
+  ]
+  },
+
+  {"tag": "plan d'étude ",
+  "patterns": [
+    "c'est quoi le spécifique du programme d'études de  l'IIT?",
+    "Quel est la valeur ajouté par le programme d'études de l'iit?",
+    "Par quoi se diffère le programmes d'études dans l'iit par rapport à d'autres universités ?",
+    "En quoi les cours de gestion en relation avec le leadership sont-ils importants pour la formation des étudiants ?",
+    "Comment les compétences en leadership acquises dans ces cours peuvent-elles aider les étudiants dans leur carrière future ?",
+    "Quelles sont les qualités et les compétences de leadership qui peuvent être développées grâce à ces cours de gestion ?",
+    "Comment les étudiants peuvent-ils appliquer les concepts de leadership appris dans ces cours dans leur vie quotidienne et professionnelle ?",
+    "En quoi les cours de gestion en relation avec le leadership peuvent-ils aider les étudiants à mieux comprendre les dynamiques de groupe et de l'équipe ?",
+    "Quelle est l'importance de développer des compétences en leadership pour les étudiants qui envisagent de travailler dans des environnements professionnels exigeants ?",
+    "Comment les cours de gestion en relation avec le leadership peuvent-ils aider les étudiants à mieux communiquer avec les autres et à résoudre les conflits ?",
+    "Pourquoi est-il important pour les futurs leaders d'être formés dans les domaines de la gestion et du leadership ?",
+    "Comment les cours de gestion en relation avec le leadership peuvent-ils aider les étudiants à développer leur confiance en soi et leur capacité à prendre des décisions difficiles ?",
+    "En quoi les cours de gestion en relation avec le leadership peuvent-ils aider les étudiants à mieux comprendre leur propre style de leadership et à l'améliorer ?"
+    
+  ],
+
+  "responses": [
+    "Le programme d'études de l'IIT se distingue par son grand intérêt pour la gestion et la préparation de la vie professionnelle de ses étudiants. En effet, l'IIT offre des programmes de formation en gestion et en entrepreneuriat, qui permettent aux étudiants de développer leurs compétences en matière de leadership, de gestion de projet et de résolution de problèmes complexes. Les étudiants sont également encouragés à participer à des stages en entreprise et à des projets de recherche appliquée, ce qui leur permet d'acquérir une expérience pratique et de développer des compétences professionnelles précieuses. De plus, l'IIT met l'accent sur la préparation de ses étudiants à la vie professionnelle. Les programmes de formation incluent des cours sur la communication professionnelle, la négociation, la recherche d'emploi et la gestion de carrière. Les étudiants sont également encouragés à participer à des événements de réseautage avec des professionnels de l'industrie, des anciens élèves de l'IIT et d'autres experts du secteur. Ces événements leur permettent de développer leurs compétences en matière de réseautage et de découvrir les opportunités de carrière dans leur domaine d'études. En somme, le programme d'études de l'IIT se distingue par son grand intérêt pour la gestion et la préparation de la vie professionnelle de ses étudiants. Grâce à ses programmes de formation en gestion et en entrepreneuriat, ainsi qu'à son approche pratique de l'apprentissage, l'IIT prépare ses étudiants à devenir des leaders capables de relever les défis de l'industrie et de faire progresser leur carrière."
+  ]
+  },
+
+  {"tag": "Questions généralisé ",
+  "patterns": [
+    "Est ce que je dois assister à tous les cours ?"
+  ],
+  "responses":[
+    "En général, il est fortement recommandé d'assister à tous les cours proposés dans les programmes d'études de l'IIT pour maximiser les chances de réussite académique et professionnelle. La participation régulière aux cours permet de suivre les enseignements de manière cohérente, de poser des questions, d'interagir avec les enseignants et les autres étudiants, et d'acquérir des connaissances théoriques et pratiques essentielles."
+
+  ]
+},
+  {"tag": "Questions généralisé ",
+  "patterns": [
+  "Est ce que les programmes d'études offrent-ils des options de participation à des projets communautaires?"
+
+  ],
+  "responses":[
+  "En ce qui concerne les projets communautaires, l'IIT propose effectivement des options de participation à des projets en collaboration avec des organisations locales, des entreprises et des associations. Les programmes d'études de l'IIT mettent l'accent sur l'apprentissage pratique et la participation des étudiants à des projets communautaires permet de mettre en pratique les connaissances acquises en classe, de développer des compétences de collaboration et de renforcer leur expérience professionnelle."
+  ]
+
+  },
+  {"tag":"Questions généralisé ",
+  "patterns":[
+    "Est ce que les  programmes d'études offrent-ils des options de participation à des clubs et associations étudiantes liés aux programmes d'études?"
+  ],
+
+  "responses":[
+    "L'IIT offre également des options de participation à des clubs et associations étudiantes liés aux programmes d'études. Ces clubs permettent aux étudiants de se connecter avec d'autres étudiants partageant les mêmes intérêts, de développer des compétences de leadership, d'explorer de nouvelles idées et de participer à des événements et activités liés à leur domaine d'études. Les clubs peuvent également offrir des opportunités de bénévolat, de projets de recherche et de stages en entreprise, on peut citer MICROSOFT TECH CLUB, Club ROBOTIQUE , club GOOGLE , Club python IIT,etc..."
+  ]
+},
+
+{"tag":"Questions généralisé ",
+  "patterns":[
+    "Comment sont dispensés les cours (en présentiel, en ligne)?"
+  ],
+
+  "responses":[
+    "En général, l'IIT propose des programmes d'études en présentiel, mais il peut y avoir des circonstances où l'enseignement en ligne est possible. Toutefois, la possibilité d'assister aux cours en ligne dépend des plans d'études de chaque enseignant et des politiques de l'IIT.Si vous ne pouvez pas assister aux cours en présentiel pendant la journée, l'IIT offre une option d'alternance en partenariat avec plusieurs entreprises, ce qui vous permet de suivre un programme d'études de cours professionnels en soirée. Cette option peut être utile si vous avez un emploi à temps plein ou d'autres obligations pendant la journée. Cependant, il est important de noter que les programmes d'études de cours professionnels en soirée peuvent avoir des exigences différentes de celles des programmes d'études en présentiel, et peuvent nécessiter une plus grande autonomie et une capacité à travailler de manière indépendante. Il est donc important de bien comprendre les exigences de chaque programme d'études avant de choisir l'option qui vous convient le mieux."
+  ]  
+},
+
+{"tag":"Questions généralisé ",
+  "patterns":[
+    "Combien de temps dure chaque cours ?"
+  ],
+
+  "responses":[
+    "La durée de chaque cours à l'IIT peut varier en fonction de différents facteurs tels que la charge horaire obligatoire, les modules et les spécialités. En général, chaque cours est conçu pour répondre aux exigences de la charge horaire obligatoire, qui peut varier d'un programme d'études à l'autre. Par exemple, les cours de licence peuvent avoir des charges horaires différentes de celles des cours d'ingénierie. De plus, la durée de chaque cours peut varier en fonction des modules ou des thèmes abordés dans le cours. Certains cours peuvent être plus longs en raison de la complexité des sujets traités, tandis que d'autres cours peuvent être plus courts s'ils sont plus simples ou plus spécialisés.En somme, la durée de chaque cours à l'IIT dépend de différents facteurs tels que la charge horaire obligatoire, les modules et les spécialités, et peut donc varier d'un cours à l'autre. Il est important de consulter les informations spécifiques de chaque programme d'études pour connaître la durée et les exigences de chaque cours.Vous pouvez consulté le site web www.iit.tn et se renseigner plus sur le programme d'études de chaque filière."
+  ]
+
   }
+
+
+
+
+
+
+
+
+
+
+
+
   ]
   }
   
