@@ -829,14 +829,70 @@
 
 {"tag":"Questions généralisé ",
   "patterns":[
-    "Combien de temps dure chaque cours ?"
+    "Combien de temps dure chaque cours à l'iit ?"
   ],
 
   "responses":[
     "La durée de chaque cours à l'IIT peut varier en fonction de différents facteurs tels que la charge horaire obligatoire, les modules et les spécialités. En général, chaque cours est conçu pour répondre aux exigences de la charge horaire obligatoire, qui peut varier d'un programme d'études à l'autre. Par exemple, les cours de licence peuvent avoir des charges horaires différentes de celles des cours d'ingénierie. De plus, la durée de chaque cours peut varier en fonction des modules ou des thèmes abordés dans le cours. Certains cours peuvent être plus longs en raison de la complexité des sujets traités, tandis que d'autres cours peuvent être plus courts s'ils sont plus simples ou plus spécialisés.En somme, la durée de chaque cours à l'IIT dépend de différents facteurs tels que la charge horaire obligatoire, les modules et les spécialités, et peut donc varier d'un cours à l'autre. Il est important de consulter les informations spécifiques de chaque programme d'études pour connaître la durée et les exigences de chaque cours.Vous pouvez consulté le site web www.iit.tn et se renseigner plus sur le programme d'études de chaque filière."
     
   ]
-  }
+},
+{"tag":"Questions généralisé ",
+  "patterns":[
+
+  "Comment est organisé le calendrier universitaire et le planning des cours ?"
+  ],
+  "responses":[
+    "Le calendrier universitaire et le planning des cours à l'Institut International de Technologies de Sfax sont organisés par semestre. Chaque semestre dure environ 14 et 15 semaines et est divisé en deux parties : la première partie est dédiée aux cours magistraux et aux travaux dirigés, tandis que la deuxième partie est réservée aux examens et aux évaluations.Le calendrier universitaire est également publié avant le début de chaque année universitaire et comprend les dates importantes telles que le début et la fin des semestres, les périodes de vacances, les dates d'inscription,le dates des examens , la période dela session de controle, les periodes de révisions..." 
+  ]
+  },
+  {"tag":"Questions généralisé ",
+  "patterns":[
+    "Les cours sont-ils en français ou en anglais ?"
+  ],
+  "responses":[
+    "La langue d'enseignement peut varier selon la filière, le cycle et même la spécialité. En règle générale, la plupart des cours sont dispensés en français à l'Institut International de Technologies de Sfax, car c'est la langue officielle en Tunisie. Cependant, certains cours techniques et scientifiques peuvent être dispensés en anglais, et il est recommandé de consulter le programme d'études détaillé pour connaître la langue d'enseignement spécifique de chaque cours. En outre, il est possible que certains cours soient enseignés dans d'autres langues, en fonction des enseignants et de la demande des étudiants."
+  ]
+},
+{"tag":"Questions généralisé ",
+  "patterns":[
+    "Comment peut-on obtenir plus d'informations sur chaque cours et sur le programme de l'Institut International de Technologies de Sfax en général ?"
+
+  ],
+  "responses":[
+    "Pour obtenir plus d'informations sur chaque cours et sur le programme de l'Institut International de Technologies de Sfax en général, vous pouvez consulter le site web de l'institut à l'adresse iit.tn. Sur le site web, vous trouverez des informations détaillées sur les programmes d'études, les cours, les enseignants, les projets, les stages, les clubs et associations étudiantes, ainsi que sur les différents services offerts par l'institut. Vous pouvez également visiter le campus de l'IIT à Sfax pour parler avec un responsable ou pour rencontrer des enseignants et des étudiants. Ils seront en mesure de vous fournir des informations supplémentaires sur les programmes d'études et de répondre à toutes vos questions."
+  ]
+},
+{"tag":"Questions généralisé ",
+"patterns":[
+  "Quelle est la durée moyenne de stage ou d'expérience professionnelle associée à ce programme d'études ?"
+],
+  "responses":[
+    "La durée moyenne de stage ou d'expérience professionnelle associée à ce programme d'études peut varier en fonction de la spécialité et du cycle de l'étudiant. En général, les programmes d'études offrent des stages d'une durée de quelques semaines à quelques mois, avec la possibilité d'effectuer plusieurs stages tout au long du cursus. Dans certains cas, les étudiants peuvent également avoir la possibilité d'effectuer une expérience professionnelle en parallèle de leurs études, en suivant un cursus en alternance. Il est conseillé de consulter le programme d'études détaillé pour se renseigner sur les opportunités de stage et d'expérience professionnelle associées à chaque spécialité."
+  ]
+},
+{"tag":"Questions généralisé ",
+"patterns":[
+  "Y a-t-il des possibilités de poursuivre des études supérieures après avoir terminé ce programme d'études ?"
+],
+  "responses":[
+    "Oui, il existe des possibilités de poursuivre des études supérieures après avoir terminé le programme d'études de l'Institut International de Technologies de Sfax. Les étudiants peuvent poursuivre des études de maîtrise ou de doctorat dans leur domaine de spécialisation ou dans une discipline connexe. L'IIT propose également des programmes de formation continue pour les professionnels qui souhaitent acquérir de nouvelles compétences ou se spécialiser dans un domaine spécifique. Les étudiants peuvent obtenir plus d'informations sur les programmes de troisième cycle proposés par l'IIT auprès du bureau des études supérieures de l'institut ou en consultant le site web de l'IIT."
+  ]
+},
+{"tag":"Questions généralisé ",
+  "patterns":[
+    "Comment les crédits ECTS sont-ils utilisés pour déterminer la note finale ou la mention obtenue à la fin du programme d'études ?"
+  ],
+  "responses":[
+    "Les crédits ECTS (European Credit Transfer and Accumulation System) sont utilisés pour quantifier le travail de l'étudiant dans le programme d'études. Chaque cours a un nombre de crédits ECTS qui lui est associé, en fonction de sa charge de travail estimée. La note finale ou la mention obtenue à la fin du programme d'études est déterminée par l'accumulation des crédits ECTS et la moyenne pondérée des notes obtenues pour chaque cours. Par exemple, si un cours a 6 crédits ECTS et que l'étudiant a obtenu une note de 16/20, alors il obtiendra 6 x 16/20 = 4,8 crédits ECTS pour ce cours. La somme de tous les crédits ECTS obtenus pour tous les cours donnera le nombre total de crédits ECTS obtenus pour le programme d'études, ce qui permettra de déterminer la mention obtenue en fonction des critères établis par l'établissement."
+    
+  ]
+
+
+}
+
+
+
 
   ]
   }
